@@ -83,3 +83,24 @@ pip install -r requirements.txt
 
 لازم به ذکر است که در فصل تابستان چون عمدتا بارشی رخی نداده است، در نتیجه الگوی بارشی ای یافت نشده است.
 
+## 📁 ساختار پوشه‌ها
+
+```
+
+weather-analysis/
+│
+├── README.md
+├── sample.ipynb 
+├── requirements.txt 
+├── weather.csv 
+│
+└── images/ 
+├── pre_processing.png 
+├── outlyer.png 
+├── scaling.png  
+├── heatmap.png 
+├── Average_precipitation.png 
+├── Annual_precipitation.png 
+├── precipitation.png 
+└── output.png 
+```
